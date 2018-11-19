@@ -1,3 +1,7 @@
+# Author: Anwesh Tuladhar <anwesh.tuladhar@gmail.com>
+# Website: https://anwesht.github.io/
+__author__ = 'Anwesh Tuladhar'
+
 from typing import NamedTuple
 from operator import attrgetter
 import pprint
